@@ -13,6 +13,14 @@
 		A9D2E3EB2744A5C40085DB26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3E92744A5C40085DB26 /* Main.storyboard */; };
 		A9D2E3ED2744A5C60085DB26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3EC2744A5C60085DB26 /* Assets.xcassets */; };
 		A9D2E3F02744A5C60085DB26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3EE2744A5C60085DB26 /* LaunchScreen.storyboard */; };
+		A9D2E3F82744A6030085DB26 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D2E3F72744A6030085DB26 /* File.swift */; };
+		A9D2E3FC2744B0E50085DB26 /* CB_UsageDescription.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3FB2744B0E50085DB26 /* CB_UsageDescription.png */; };
+		A9D2E4032744B1020085DB26 /* rendered2x-1591202374.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3FD2744B1020085DB26 /* rendered2x-1591202374.png */; };
+		A9D2E4042744B1020085DB26 /* CSV.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3FE2744B1020085DB26 /* CSV.png */; };
+		A9D2E4052744B1020085DB26 /* MCBrowserViewController.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E3FF2744B1020085DB26 /* MCBrowserViewController.jpg */; };
+		A9D2E4062744B1020085DB26 /* MC_UsageDescription.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E4002744B1020085DB26 /* MC_UsageDescription.png */; };
+		A9D2E4072744B1020085DB26 /* NI_UsageDescription.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E4012744B1020085DB26 /* NI_UsageDescription.png */; };
+		A9D2E4082744B1020085DB26 /* rendered2x-1591201856.png in Resources */ = {isa = PBXBuildFile; fileRef = A9D2E4022744B1020085DB26 /* rendered2x-1591201856.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,15 @@
 		A9D2E3EC2744A5C60085DB26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A9D2E3EF2744A5C60085DB26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A9D2E3F12744A5C60085DB26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9D2E3F72744A6030085DB26 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		A9D2E3F92744A90B0085DB26 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A9D2E3FB2744B0E50085DB26 /* CB_UsageDescription.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CB_UsageDescription.png; sourceTree = "<group>"; };
+		A9D2E3FD2744B1020085DB26 /* rendered2x-1591202374.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rendered2x-1591202374.png"; sourceTree = "<group>"; };
+		A9D2E3FE2744B1020085DB26 /* CSV.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CSV.png; sourceTree = "<group>"; };
+		A9D2E3FF2744B1020085DB26 /* MCBrowserViewController.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MCBrowserViewController.jpg; sourceTree = "<group>"; };
+		A9D2E4002744B1020085DB26 /* MC_UsageDescription.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MC_UsageDescription.png; sourceTree = "<group>"; };
+		A9D2E4012744B1020085DB26 /* NI_UsageDescription.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NI_UsageDescription.png; sourceTree = "<group>"; };
+		A9D2E4022744B1020085DB26 /* rendered2x-1591201856.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rendered2x-1591201856.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +57,8 @@
 		A9D2E3D72744A5C40085DB26 = {
 			isa = PBXGroup;
 			children = (
+				A9D2E3F92744A90B0085DB26 /* README.md */,
+				A9D2E3FA2744B0B70085DB26 /* img */,
 				A9D2E3E22744A5C40085DB26 /* NearbyInteractionByMultipeerConnectivity */,
 				A9D2E3E12744A5C40085DB26 /* Products */,
 			);
@@ -59,12 +78,27 @@
 				A9D2E3E32744A5C40085DB26 /* AppDelegate.swift */,
 				A9D2E3E52744A5C40085DB26 /* SceneDelegate.swift */,
 				A9D2E3E72744A5C40085DB26 /* ViewController.swift */,
+				A9D2E3F72744A6030085DB26 /* File.swift */,
 				A9D2E3E92744A5C40085DB26 /* Main.storyboard */,
 				A9D2E3EC2744A5C60085DB26 /* Assets.xcassets */,
 				A9D2E3EE2744A5C60085DB26 /* LaunchScreen.storyboard */,
 				A9D2E3F12744A5C60085DB26 /* Info.plist */,
 			);
 			path = NearbyInteractionByMultipeerConnectivity;
+			sourceTree = "<group>";
+		};
+		A9D2E3FA2744B0B70085DB26 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				A9D2E3FB2744B0E50085DB26 /* CB_UsageDescription.png */,
+				A9D2E3FE2744B1020085DB26 /* CSV.png */,
+				A9D2E4002744B1020085DB26 /* MC_UsageDescription.png */,
+				A9D2E3FF2744B1020085DB26 /* MCBrowserViewController.jpg */,
+				A9D2E4012744B1020085DB26 /* NI_UsageDescription.png */,
+				A9D2E4022744B1020085DB26 /* rendered2x-1591201856.png */,
+				A9D2E3FD2744B1020085DB26 /* rendered2x-1591202374.png */,
+			);
+			path = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +159,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A9D2E4082744B1020085DB26 /* rendered2x-1591201856.png in Resources */,
+				A9D2E4042744B1020085DB26 /* CSV.png in Resources */,
+				A9D2E4052744B1020085DB26 /* MCBrowserViewController.jpg in Resources */,
+				A9D2E4072744B1020085DB26 /* NI_UsageDescription.png in Resources */,
+				A9D2E4062744B1020085DB26 /* MC_UsageDescription.png in Resources */,
 				A9D2E3F02744A5C60085DB26 /* LaunchScreen.storyboard in Resources */,
+				A9D2E4032744B1020085DB26 /* rendered2x-1591202374.png in Resources */,
 				A9D2E3ED2744A5C60085DB26 /* Assets.xcassets in Resources */,
 				A9D2E3EB2744A5C40085DB26 /* Main.storyboard in Resources */,
+				A9D2E3FC2744B0E50085DB26 /* CB_UsageDescription.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +180,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9D2E3E82744A5C40085DB26 /* ViewController.swift in Sources */,
+				A9D2E3F82744A6030085DB26 /* File.swift in Sources */,
 				A9D2E3E42744A5C40085DB26 /* AppDelegate.swift in Sources */,
 				A9D2E3E62744A5C40085DB26 /* SceneDelegate.swift in Sources */,
 			);
@@ -292,6 +334,9 @@
 				DEVELOPMENT_TEAM = BDVDN9SNKG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NearbyInteractionByMultipeerConnectivity/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "NI by MC";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "For exchanging the discovery token.";
+				INFOPLIST_KEY_NSNearbyInteractionUsageDescription = "For the peer's direction and distance.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +365,9 @@
 				DEVELOPMENT_TEAM = BDVDN9SNKG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NearbyInteractionByMultipeerConnectivity/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "NI by MC";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "For exchanging the discovery token.";
+				INFOPLIST_KEY_NSNearbyInteractionUsageDescription = "For the peer's direction and distance.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
