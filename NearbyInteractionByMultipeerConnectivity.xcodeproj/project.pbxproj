@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A99B7711274B52BC00684ECC /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = A99B7710274B52BC00684ECC /* demo.gif */; };
 		A9D2E3E42744A5C40085DB26 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D2E3E32744A5C40085DB26 /* AppDelegate.swift */; };
 		A9D2E3E62744A5C40085DB26 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D2E3E52744A5C40085DB26 /* SceneDelegate.swift */; };
 		A9D2E3E82744A5C40085DB26 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D2E3E72744A5C40085DB26 /* ViewController.swift */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A99B7710274B52BC00684ECC /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		A9D2E3E02744A5C40085DB26 /* NearbyInteractionByMultipeerConnectivity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NearbyInteractionByMultipeerConnectivity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9D2E3E32744A5C40085DB26 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9D2E3E52744A5C40085DB26 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 				A9D2E3FE2744B1020085DB26 /* CSV.png */,
 				A9D2E4002744B1020085DB26 /* MC_UsageDescription.png */,
 				A9D2E3FF2744B1020085DB26 /* MCBrowserViewController.jpg */,
+				A99B7710274B52BC00684ECC /* demo.gif */,
 				A9D2E4012744B1020085DB26 /* NI_UsageDescription.png */,
 				A9D2E4022744B1020085DB26 /* rendered2x-1591201856.png */,
 				A9D2E3FD2744B1020085DB26 /* rendered2x-1591202374.png */,
@@ -168,6 +171,7 @@
 				A9D2E4032744B1020085DB26 /* rendered2x-1591202374.png in Resources */,
 				A9D2E3ED2744A5C60085DB26 /* Assets.xcassets in Resources */,
 				A9D2E3EB2744A5C40085DB26 /* Main.storyboard in Resources */,
+				A99B7711274B52BC00684ECC /* demo.gif in Resources */,
 				A9D2E3FC2744B0E50085DB26 /* CB_UsageDescription.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
